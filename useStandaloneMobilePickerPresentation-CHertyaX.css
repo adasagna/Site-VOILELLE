@@ -1,0 +1,1 @@
+@keyframes _voiceInputDiscoveryPulse_bf7fd1{0%{box-shadow:0 0 0 2px #0079f2b3}70%{box-shadow:0 0 0 8px #0079f200}to{box-shadow:0 0 0 8px #0079f200}}@media (prefers-reduced-motion:reduce){@layer css-modules{._discoveryPulse_bf7fd1{animation:none}}}@layer css-modules{._discoveryPulse_bf7fd1{animation:2s cubic-bezier(.4,0,.6,1) infinite _voiceInputDiscoveryPulse_bf7fd1}}

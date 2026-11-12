@@ -1,0 +1,1 @@
+@keyframes _workingSpin_58f503{to{transform:rotate(360deg)}}@layer css-modules{@media (prefers-reduced-motion:no-preference){._workingBadge_58f503{animation:1.2s linear infinite paused _workingSpin_58f503}}._workingBadge_58f503._isVisible_58f503{animation-play-state:running}}

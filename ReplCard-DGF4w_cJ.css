@@ -1,0 +1,1 @@
+@keyframes _pulseBlurple_f6a6e1{0%{background-color:color-mix(in srgb, var(--accent-blurple-dimmest) 75%, transparent)}to{background-color:color-mix(in srgb, var(--accent-blurple-dimmest) 25%, transparent)}}@layer css-modules{._agentRunningPill_f6a6e1{animation:1s ease-in-out infinite alternate _pulseBlurple_f6a6e1}}

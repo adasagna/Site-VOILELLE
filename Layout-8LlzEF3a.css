@@ -1,0 +1,1 @@
+@keyframes _revealScrim_210e79{0%{background-color:var(--background-overlay)}to{background-color:#0000}}@supports (animation-timeline:--x){@layer css-modules{._scrim_210e79{animation:linear both _revealScrim_210e79;animation-timeline:--mobile-sidebar-reveal;animation-range:0 var(--mobile-sidebar-reveal-width,100%)}}}
